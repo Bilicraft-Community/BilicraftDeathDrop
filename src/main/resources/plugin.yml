@@ -1,0 +1,5 @@
+name: BilicraftDeathDrop
+version: ${project.version}
+main: com.bilicraft.bilicraftdeathdrop.BilicraftDeathDrop
+api-version: 1.17
+description: 保护死亡掉落物品
